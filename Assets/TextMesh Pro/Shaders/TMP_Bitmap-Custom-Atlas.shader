@@ -1,4 +1,4 @@
-Shader "TextMeshPro/Bitmap" {
+Shader "TextMeshPro/Bitmap Custom Atlas" {
 
 Properties {
 	_MainTex		("Font Atlas", 2D) = "white" {}
@@ -11,6 +11,7 @@ Properties {
 	_MaskSoftnessY	("Mask SoftnessY", float) = 0
 
 	_ClipRect("Clip Rect", vector) = (-32767, -32767, 32767, 32767)
+	_Padding		("Padding", float) = 0
 
 	_StencilComp("Stencil Comparison", Float) = 8
 	_Stencil("Stencil ID", Float) = 0
@@ -120,8 +121,7 @@ SubShader{
 
 		fixed4 frag (v2f IN) : SV_Target
 		{
-			fixed4 color = tex2D(_MainTex, IN.texcoord0);
-			color = fixed4 (tex2D(_FaceTex, IN.texcoord1).rgb * IN.color.rgb, IN.color.a * color.a);
+			fixed4 color = tex2D(_MainTex, IN.texcoord0) * tex2D(_FaceTex, IN.texcoord1) * IN.color;
 
 			// Alternative implementation to UnityGet2DClipping with support for softness.
 			#if UNITY_UI_CLIP_RECT
