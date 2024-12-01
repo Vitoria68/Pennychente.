@@ -1,0 +1,897 @@
+fileFormatVersion: 2
+guid: 8b3f17c885614c14596c971710e3aa09
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1877841216247439593
+    second: skeleton_ammoCount_0
+  - first:
+      213: -1857596209644782371
+    second: skeleton_ammoCount_1
+  - first:
+      213: -708280696676975188
+    second: skeleton_ammoCount_2
+  - first:
+      213: -3744913574734382617
+    second: skeleton_ammoCount_3
+  - first:
+      213: 7780319738805101342
+    second: skeleton_ammoCount_4
+  - first:
+      213: -4898399089808871282
+    second: skeleton_ammoCount_5
+  - first:
+      213: -7629605893131895269
+    second: skeleton_ammoCount_6
+  - first:
+      213: 4326231485626885990
+    second: skeleton_ammoCount_7
+  - first:
+      213: -322336524927772254
+    second: skeleton_ammoCount_8
+  - first:
+      213: 365025090503405148
+    second: skeleton_ammoCount_9
+  - first:
+      213: 8606464160513258120
+    second: skeleton_ammoCount_10
+  - first:
+      213: -5001137794364452545
+    second: skeleton_ammoCount_11
+  - first:
+      213: 1164872942396585538
+    second: skeleton_ammoCount_12
+  - first:
+      213: -266869392581924250
+    second: skeleton_ammoCount_13
+  - first:
+      213: 3279762543448103617
+    second: skeleton_ammoCount_14
+  - first:
+      213: -4155731482429820553
+    second: skeleton_ammoCount_15
+  - first:
+      213: 6173846536646402610
+    second: skeleton_ammoCount_16
+  - first:
+      213: 1599202096310707630
+    second: skeleton_ammoCount_17
+  - first:
+      213: -1188591462388064714
+    second: skeleton_ammoCount_18
+  - first:
+      213: 3441389782147468457
+    second: skeleton_ammoCount_19
+  - first:
+      213: 4051387037209894574
+    second: skeleton_ammoCount_20
+  - first:
+      213: 8551274495252069592
+    second: skeleton_ammoCount_21
+  - first:
+      213: 6145186423634595188
+    second: skeleton_ammoCount_22
+  - first:
+      213: 1955679936332650537
+    second: skeleton_ammoCount_23
+  - first:
+      213: -791972080619454655
+    second: skeleton_ammoCount_24
+  - first:
+      213: 3845565940835541551
+    second: skeleton_ammoCount_25
+  - first:
+      213: 6661304208317287342
+    second: skeleton_ammoCount_26
+  - first:
+      213: -4555780159894131850
+    second: skeleton_ammoCount_27
+  - first:
+      213: -9066204892788615971
+    second: skeleton_ammoCount_28
+  - first:
+      213: -2927000705010819310
+    second: skeleton_ammoCount_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: skeleton_ammoCount_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 54
+        width: 7
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71fdbf0fc5190f5e0800000000000000
+      internalID: -1877841216247439593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_ammoCount_1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 27
+        width: 7
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddcb20cd61e7836e0800000000000000
+      internalID: -1857596209644782371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_ammoCount_2
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 54
+        width: 7
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cad7d41857eab26f0800000000000000
+      internalID: -708280696676975188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_ammoCount_3
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 27
+        width: 7
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e93b67f1f4670cc0800000000000000
+      internalID: -3744913574734382617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_ammoCount_4
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 54
+        width: 7
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e13207e949f39fb60800000000000000
+      internalID: 7780319738805101342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_ammoCount_5
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 27
+        width: 7
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8078db0bf3650cb0800000000000000
+      internalID: -4898399089808871282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_ammoCount_6
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 54
+        width: 7
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1e75a31dd13e1690800000000000000
+      internalID: -7629605893131895269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_ammoCount_7
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 27
+        width: 7
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 667a6e46d9cd90c30800000000000000
+      internalID: 4326231485626885990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_ammoCount_8
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 54
+        width: 7
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a9db8d63a4d68bf0800000000000000
+      internalID: -322336524927772254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_ammoCount_9
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 27
+        width: 7
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5e6f85c264d01500800000000000000
+      internalID: 365025090503405148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_ammoCount_10
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 54
+        width: 7
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 882f5831e8d407770800000000000000
+      internalID: 8606464160513258120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_ammoCount_11
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 27
+        width: 7
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3150265ca3689ab0800000000000000
+      internalID: -5001137794364452545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_ammoCount_12
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 54
+        width: 7
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2463304f4c57a2010800000000000000
+      internalID: 1164872942396585538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_ammoCount_13
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 27
+        width: 7
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66aeabd83b3eb4cf0800000000000000
+      internalID: -266869392581924250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_ammoCount_14
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 54
+        width: 7
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ca1bd508ae048d20800000000000000
+      internalID: 3279762543448103617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_ammoCount_15
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 27
+        width: 7
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 771fcd71c30e356c0800000000000000
+      internalID: -4155731482429820553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_ammoCount_16
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 54
+        width: 7
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 232a592f6b8eda550800000000000000
+      internalID: 6173846536646402610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_ammoCount_17
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 27
+        width: 7
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea5e8aa65d1813610800000000000000
+      internalID: 1599202096310707630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_ammoCount_18
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 54
+        width: 7
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63e1c45cc56418fe0800000000000000
+      internalID: -1188591462388064714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_ammoCount_19
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 27
+        width: 7
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ac0f8a06c542cf20800000000000000
+      internalID: 3441389782147468457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_ammoCount_20
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 0
+        width: 7
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eae94809b0b693830800000000000000
+      internalID: 4051387037209894574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_ammoCount_21
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 0
+        width: 7
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dc7b5ac8da3ca670800000000000000
+      internalID: 8551274495252069592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_ammoCount_22
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 7
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47d0b436e76184550800000000000000
+      internalID: 6145186423634595188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_ammoCount_23
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 0
+        width: 7
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 928577b5a88f32b10800000000000000
+      internalID: 1955679936332650537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_ammoCount_24
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 0
+        width: 7
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14f76a6b6995205f0800000000000000
+      internalID: -791972080619454655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_ammoCount_25
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 0
+        width: 7
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f22e7d739d13e5530800000000000000
+      internalID: 3845565940835541551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_ammoCount_26
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 0
+        width: 7
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eab019562e4b17c50800000000000000
+      internalID: 6661304208317287342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_ammoCount_27
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 0
+        width: 7
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67becb6051e96c0c0800000000000000
+      internalID: -4555780159894131850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_ammoCount_28
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 0
+        width: 7
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd41d605fae5e2280800000000000000
+      internalID: -9066204892788615971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_ammoCount_29
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 0
+        width: 7
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21f1380ed543167d0800000000000000
+      internalID: -2927000705010819310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      skeleton_ammoCount_0: -1877841216247439593
+      skeleton_ammoCount_1: -1857596209644782371
+      skeleton_ammoCount_10: 8606464160513258120
+      skeleton_ammoCount_11: -5001137794364452545
+      skeleton_ammoCount_12: 1164872942396585538
+      skeleton_ammoCount_13: -266869392581924250
+      skeleton_ammoCount_14: 3279762543448103617
+      skeleton_ammoCount_15: -4155731482429820553
+      skeleton_ammoCount_16: 6173846536646402610
+      skeleton_ammoCount_17: 1599202096310707630
+      skeleton_ammoCount_18: -1188591462388064714
+      skeleton_ammoCount_19: 3441389782147468457
+      skeleton_ammoCount_2: -708280696676975188
+      skeleton_ammoCount_20: 4051387037209894574
+      skeleton_ammoCount_21: 8551274495252069592
+      skeleton_ammoCount_22: 6145186423634595188
+      skeleton_ammoCount_23: 1955679936332650537
+      skeleton_ammoCount_24: -791972080619454655
+      skeleton_ammoCount_25: 3845565940835541551
+      skeleton_ammoCount_26: 6661304208317287342
+      skeleton_ammoCount_27: -4555780159894131850
+      skeleton_ammoCount_28: -9066204892788615971
+      skeleton_ammoCount_29: -2927000705010819310
+      skeleton_ammoCount_3: -3744913574734382617
+      skeleton_ammoCount_4: 7780319738805101342
+      skeleton_ammoCount_5: -4898399089808871282
+      skeleton_ammoCount_6: -7629605893131895269
+      skeleton_ammoCount_7: 4326231485626885990
+      skeleton_ammoCount_8: -322336524927772254
+      skeleton_ammoCount_9: 365025090503405148
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
