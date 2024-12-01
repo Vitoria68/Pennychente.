@@ -1,0 +1,429 @@
+fileFormatVersion: 2
+guid: 7d7edda414f24bd4d97a176940d4c553
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5089319684021149508
+    second: dot-cha008--V4_0
+  - first:
+      213: 4114509381158773447
+    second: dot-cha008--V4_1
+  - first:
+      213: -4950626985761991029
+    second: dot-cha008--V4_2
+  - first:
+      213: 4424752676908891907
+    second: dot-cha008--V4_3
+  - first:
+      213: -7810763550571249033
+    second: dot-cha008--V4_4
+  - first:
+      213: -2271848414086596507
+    second: dot-cha008--V4_5
+  - first:
+      213: 5980435846418556326
+    second: dot-cha008--V4_6
+  - first:
+      213: 3659498509444542282
+    second: dot-cha008--V4_7
+  - first:
+      213: -5770930733598271104
+    second: dot-cha008--V4_8
+  - first:
+      213: 7834577040707441556
+    second: dot-cha008--V4_9
+  - first:
+      213: -4603005247025168018
+    second: dot-cha008--V4_10
+  - first:
+      213: -1988548806351490578
+    second: dot-cha008--V4_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: dot-cha008--V4_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 193
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb0248536ba1f59b0800000000000000
+      internalID: -5089319684021149508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot-cha008--V4_1
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 193
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c22bf88b7ca91930800000000000000
+      internalID: 4114509381158773447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot-cha008--V4_2
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 193
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b86913a6cf6db4bb0800000000000000
+      internalID: -4950626985761991029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot-cha008--V4_3
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 127
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30ffc16cd11e76d30800000000000000
+      internalID: 4424752676908891907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot-cha008--V4_4
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 129
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 772c1a71fe79a9390800000000000000
+      internalID: -7810763550571249033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot-cha008--V4_5
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 127
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56875d677e5c870e0800000000000000
+      internalID: -2271848414086596507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot-cha008--V4_6
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 65
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a56ac377b6cef250800000000000000
+      internalID: 5980435846418556326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot-cha008--V4_7
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 65
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4f6387618629c230800000000000000
+      internalID: 3659498509444542282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot-cha008--V4_8
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 65
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0899d70d21989efa0800000000000000
+      internalID: -5770930733598271104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot-cha008--V4_9
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1
+        width: 34
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4935cc42f420abc60800000000000000
+      internalID: 7834577040707441556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot-cha008--V4_10
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 1
+        width: 34
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e614ec79d17de10c0800000000000000
+      internalID: -4603005247025168018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot-cha008--V4_11
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 1
+        width: 34
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee174ea75614764e0800000000000000
+      internalID: -1988548806351490578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 3b05c402b7d308a448b11f701f8ed1f0
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      dot-cha008--V4_0: -5089319684021149508
+      dot-cha008--V4_1: 4114509381158773447
+      dot-cha008--V4_10: -4603005247025168018
+      dot-cha008--V4_11: -1988548806351490578
+      dot-cha008--V4_2: -4950626985761991029
+      dot-cha008--V4_3: 4424752676908891907
+      dot-cha008--V4_4: -7810763550571249033
+      dot-cha008--V4_5: -2271848414086596507
+      dot-cha008--V4_6: 5980435846418556326
+      dot-cha008--V4_7: 3659498509444542282
+      dot-cha008--V4_8: -5770930733598271104
+      dot-cha008--V4_9: 7834577040707441556
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

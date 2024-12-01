@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.AI;
 using UnityEngine.UI;
-public class Char8 : EnemyLife
+public class Ghost : EnemyLife
 {
     [SerializeField] private NavMeshAgent agent;
     //[SerializeField] private AnimatioControl anim;
@@ -49,11 +49,11 @@ public class Char8 : EnemyLife
             float pox = player.transform.position.x - transform.position.x;
             if (pox > 0)
             {
-                transform.eulerAngles = new Vector2(0, 180);
+                transform.eulerAngles = new Vector2(0, 0);
             }
             else
             {
-                transform.eulerAngles = new Vector2(0, 0);
+                transform.eulerAngles = new Vector2(0, 180);
             }
         }
         if (health <= 0)
