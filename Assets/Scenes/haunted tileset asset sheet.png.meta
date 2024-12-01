@@ -1,0 +1,3693 @@
+fileFormatVersion: 2
+guid: 4bcbe71e3dbd6de489e1c5398afae0df
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1608280879089629469
+    second: haunted tileset asset sheet_0
+  - first:
+      213: 207972707530923955
+    second: haunted tileset asset sheet_1
+  - first:
+      213: 9045928570778714181
+    second: haunted tileset asset sheet_2
+  - first:
+      213: 8324544702780094473
+    second: haunted tileset asset sheet_3
+  - first:
+      213: -276878616975748045
+    second: haunted tileset asset sheet_4
+  - first:
+      213: -761366107975428772
+    second: haunted tileset asset sheet_5
+  - first:
+      213: 6151277930061571773
+    second: haunted tileset asset sheet_6
+  - first:
+      213: 6532246602106102385
+    second: haunted tileset asset sheet_7
+  - first:
+      213: 4587625525847867187
+    second: haunted tileset asset sheet_8
+  - first:
+      213: 3697219096473986881
+    second: haunted tileset asset sheet_9
+  - first:
+      213: -313349025520435273
+    second: haunted tileset asset sheet_10
+  - first:
+      213: -8810097394977321248
+    second: haunted tileset asset sheet_11
+  - first:
+      213: 8260451358573245483
+    second: haunted tileset asset sheet_12
+  - first:
+      213: 4101260762850219824
+    second: haunted tileset asset sheet_13
+  - first:
+      213: 1147554269640017723
+    second: haunted tileset asset sheet_14
+  - first:
+      213: 5281152823073560906
+    second: haunted tileset asset sheet_15
+  - first:
+      213: -4815039577897249884
+    second: haunted tileset asset sheet_16
+  - first:
+      213: 8047646516730047202
+    second: haunted tileset asset sheet_17
+  - first:
+      213: -6925447153714653279
+    second: haunted tileset asset sheet_18
+  - first:
+      213: -5854679292443570342
+    second: haunted tileset asset sheet_19
+  - first:
+      213: 6988126589582673960
+    second: haunted tileset asset sheet_20
+  - first:
+      213: -5167367377002938920
+    second: haunted tileset asset sheet_21
+  - first:
+      213: -2703560041617116168
+    second: haunted tileset asset sheet_22
+  - first:
+      213: -5910230255596107936
+    second: haunted tileset asset sheet_23
+  - first:
+      213: -7944760348963055582
+    second: haunted tileset asset sheet_24
+  - first:
+      213: -4436977123181037247
+    second: haunted tileset asset sheet_25
+  - first:
+      213: -6848545754629429759
+    second: haunted tileset asset sheet_26
+  - first:
+      213: 4700946391179800018
+    second: haunted tileset asset sheet_27
+  - first:
+      213: -8481809013738662527
+    second: haunted tileset asset sheet_28
+  - first:
+      213: -6616567157810788580
+    second: haunted tileset asset sheet_29
+  - first:
+      213: -2972187974731529006
+    second: haunted tileset asset sheet_30
+  - first:
+      213: 983895974251558970
+    second: haunted tileset asset sheet_31
+  - first:
+      213: 2957182806448446395
+    second: haunted tileset asset sheet_32
+  - first:
+      213: 1368117769617552337
+    second: haunted tileset asset sheet_33
+  - first:
+      213: 8525822278297749495
+    second: haunted tileset asset sheet_34
+  - first:
+      213: 8423401776706160635
+    second: haunted tileset asset sheet_35
+  - first:
+      213: -4278797961083073273
+    second: haunted tileset asset sheet_36
+  - first:
+      213: -6678956750407957745
+    second: haunted tileset asset sheet_37
+  - first:
+      213: 4696979644127918228
+    second: haunted tileset asset sheet_38
+  - first:
+      213: 2486884350193972894
+    second: haunted tileset asset sheet_39
+  - first:
+      213: -3420156349682878365
+    second: haunted tileset asset sheet_40
+  - first:
+      213: 6127662941557109831
+    second: haunted tileset asset sheet_41
+  - first:
+      213: 661166213757321773
+    second: haunted tileset asset sheet_42
+  - first:
+      213: 6024584532848659037
+    second: haunted tileset asset sheet_43
+  - first:
+      213: -6017284071809295547
+    second: haunted tileset asset sheet_44
+  - first:
+      213: 4180946837559009766
+    second: haunted tileset asset sheet_45
+  - first:
+      213: 2933124974416695844
+    second: haunted tileset asset sheet_46
+  - first:
+      213: 8013248034135319402
+    second: haunted tileset asset sheet_47
+  - first:
+      213: 5086284683150625982
+    second: haunted tileset asset sheet_48
+  - first:
+      213: 2678584261858691946
+    second: haunted tileset asset sheet_49
+  - first:
+      213: -815380134225163773
+    second: haunted tileset asset sheet_50
+  - first:
+      213: 4484874034315403077
+    second: haunted tileset asset sheet_51
+  - first:
+      213: -2910822757868493707
+    second: haunted tileset asset sheet_52
+  - first:
+      213: -5747431363745829751
+    second: haunted tileset asset sheet_53
+  - first:
+      213: 8701119071033675997
+    second: haunted tileset asset sheet_54
+  - first:
+      213: -780942978574881198
+    second: haunted tileset asset sheet_55
+  - first:
+      213: 5343743747725082474
+    second: haunted tileset asset sheet_56
+  - first:
+      213: -3741913050857328401
+    second: haunted tileset asset sheet_57
+  - first:
+      213: -5816980896450616802
+    second: haunted tileset asset sheet_58
+  - first:
+      213: 3497186940986199692
+    second: haunted tileset asset sheet_59
+  - first:
+      213: -5681337280266804294
+    second: haunted tileset asset sheet_60
+  - first:
+      213: 7356700068651231698
+    second: haunted tileset asset sheet_61
+  - first:
+      213: 7897505717928538938
+    second: haunted tileset asset sheet_62
+  - first:
+      213: 4478771929935691575
+    second: haunted tileset asset sheet_63
+  - first:
+      213: 5604564073069274257
+    second: haunted tileset asset sheet_64
+  - first:
+      213: 1921410945390621224
+    second: haunted tileset asset sheet_65
+  - first:
+      213: -2005364940302744133
+    second: haunted tileset asset sheet_66
+  - first:
+      213: 5987827719073906682
+    second: haunted tileset asset sheet_67
+  - first:
+      213: -5966415254460597586
+    second: haunted tileset asset sheet_68
+  - first:
+      213: -3015634750926009591
+    second: haunted tileset asset sheet_69
+  - first:
+      213: 5100662340491503336
+    second: haunted tileset asset sheet_70
+  - first:
+      213: 4071676179956924677
+    second: haunted tileset asset sheet_71
+  - first:
+      213: 1041941849688722121
+    second: haunted tileset asset sheet_72
+  - first:
+      213: -8279067925894020350
+    second: haunted tileset asset sheet_73
+  - first:
+      213: 4642593016224558345
+    second: haunted tileset asset sheet_74
+  - first:
+      213: 3100520666072324227
+    second: haunted tileset asset sheet_75
+  - first:
+      213: -6385910664997588113
+    second: haunted tileset asset sheet_76
+  - first:
+      213: 6980386222352094830
+    second: haunted tileset asset sheet_77
+  - first:
+      213: -5860146745701109041
+    second: haunted tileset asset sheet_78
+  - first:
+      213: -598791612528697819
+    second: haunted tileset asset sheet_79
+  - first:
+      213: 6720333325501559366
+    second: haunted tileset asset sheet_80
+  - first:
+      213: -8421055526458122437
+    second: haunted tileset asset sheet_81
+  - first:
+      213: 3757738513358045879
+    second: haunted tileset asset sheet_82
+  - first:
+      213: 1003761668020730401
+    second: haunted tileset asset sheet_83
+  - first:
+      213: 1566977494342908546
+    second: haunted tileset asset sheet_84
+  - first:
+      213: -5815989737201789965
+    second: haunted tileset asset sheet_85
+  - first:
+      213: -6583942208884179253
+    second: haunted tileset asset sheet_86
+  - first:
+      213: 361917978140118738
+    second: haunted tileset asset sheet_87
+  - first:
+      213: -3412197313600778200
+    second: haunted tileset asset sheet_88
+  - first:
+      213: 1558324281867774447
+    second: haunted tileset asset sheet_89
+  - first:
+      213: -444657454876327834
+    second: haunted tileset asset sheet_90
+  - first:
+      213: -3312325443755102195
+    second: haunted tileset asset sheet_91
+  - first:
+      213: -3874152678700794581
+    second: haunted tileset asset sheet_92
+  - first:
+      213: -7962331026164512121
+    second: haunted tileset asset sheet_93
+  - first:
+      213: 8633469001310659283
+    second: haunted tileset asset sheet_94
+  - first:
+      213: -6186511671466859362
+    second: haunted tileset asset sheet_95
+  - first:
+      213: -3378706071912787016
+    second: haunted tileset asset sheet_96
+  - first:
+      213: -1448976303475630246
+    second: haunted tileset asset sheet_97
+  - first:
+      213: 1006703286085759037
+    second: haunted tileset asset sheet_98
+  - first:
+      213: 3500265989746803409
+    second: haunted tileset asset sheet_99
+  - first:
+      213: -4128083858402822751
+    second: haunted tileset asset sheet_100
+  - first:
+      213: 8141928936917197589
+    second: haunted tileset asset sheet_101
+  - first:
+      213: 2420555395529415103
+    second: haunted tileset asset sheet_102
+  - first:
+      213: -3014796066159009413
+    second: haunted tileset asset sheet_103
+  - first:
+      213: -4346788855933579351
+    second: haunted tileset asset sheet_104
+  - first:
+      213: -8418705335235888014
+    second: haunted tileset asset sheet_105
+  - first:
+      213: 703855120277121764
+    second: haunted tileset asset sheet_106
+  - first:
+      213: -4517471257684031377
+    second: haunted tileset asset sheet_107
+  - first:
+      213: 9068806490016395592
+    second: haunted tileset asset sheet_108
+  - first:
+      213: 2299612423458373082
+    second: haunted tileset asset sheet_109
+  - first:
+      213: -5161476236422050740
+    second: haunted tileset asset sheet_110
+  - first:
+      213: 6720211667841158198
+    second: haunted tileset asset sheet_111
+  - first:
+      213: -8822259770957284291
+    second: haunted tileset asset sheet_112
+  - first:
+      213: 6195117392485052245
+    second: haunted tileset asset sheet_113
+  - first:
+      213: -2140602794437746965
+    second: haunted tileset asset sheet_114
+  - first:
+      213: -7494065528107583484
+    second: haunted tileset asset sheet_115
+  - first:
+      213: -7653193152896404688
+    second: haunted tileset asset sheet_116
+  - first:
+      213: -7582195349544874319
+    second: haunted tileset asset sheet_117
+  - first:
+      213: 7238222232187850471
+    second: haunted tileset asset sheet_118
+  - first:
+      213: 2115969771141477826
+    second: haunted tileset asset sheet_119
+  - first:
+      213: -5570062945446875410
+    second: haunted tileset asset sheet_120
+  - first:
+      213: -2100317017736342630
+    second: haunted tileset asset sheet_121
+  - first:
+      213: -6220786134020376802
+    second: haunted tileset asset sheet_122
+  - first:
+      213: 3266959749888825909
+    second: haunted tileset asset sheet_123
+  - first:
+      213: 86756193218732431
+    second: haunted tileset asset sheet_124
+  - first:
+      213: -3620245949718171344
+    second: haunted tileset asset sheet_125
+  - first:
+      213: 8336558556224263104
+    second: haunted tileset asset sheet_126
+  - first:
+      213: 1458145276067045954
+    second: haunted tileset asset sheet_127
+  - first:
+      213: 151020333212034245
+    second: haunted tileset asset sheet_128
+  - first:
+      213: 2204155100499304524
+    second: haunted tileset asset sheet_129
+  - first:
+      213: 999727554034668705
+    second: haunted tileset asset sheet_130
+  - first:
+      213: -8423931454584156893
+    second: haunted tileset asset sheet_131
+  - first:
+      213: -303306733566925980
+    second: haunted tileset asset sheet_132
+  - first:
+      213: -2710210964877906224
+    second: haunted tileset asset sheet_133
+  - first:
+      213: -2881912957307185590
+    second: haunted tileset asset sheet_134
+  - first:
+      213: 5370911557449283779
+    second: haunted tileset asset sheet_135
+  - first:
+      213: 4435938265449901828
+    second: haunted tileset asset sheet_136
+  - first:
+      213: 145970023460512658
+    second: haunted tileset asset sheet_137
+  - first:
+      213: -6253297243003879448
+    second: haunted tileset asset sheet_138
+  - first:
+      213: 5648936815221239788
+    second: haunted tileset asset sheet_139
+  - first:
+      213: 3927693920947497375
+    second: haunted tileset asset sheet_140
+  - first:
+      213: 6963099450027889630
+    second: haunted tileset asset sheet_141
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Win64
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: haunted tileset asset sheet_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 821
+        width: 24
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d19b03140f2c15610800000000000000
+      internalID: 1608280879089629469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haunted tileset asset sheet_1
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 828
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bf5b5b531ed2e200800000000000000
+      internalID: 207972707530923955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haunted tileset asset sheet_2
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 829
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54082d49b18998d70800000000000000
+      internalID: 9045928570778714181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haunted tileset asset sheet_3
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 824
+        width: 75
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90831164d49b68370800000000000000
+      internalID: 8324544702780094473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haunted tileset asset sheet_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 832
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33452456d54582cf0800000000000000
+      internalID: -276878616975748045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haunted tileset asset sheet_5
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 824
+        width: 98
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c555a160f851f65f0800000000000000
+      internalID: -761366107975428772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haunted tileset asset sheet_6
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 825
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db62500cfaabd5550800000000000000
+      internalID: 6151277930061571773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haunted tileset asset sheet_7
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 824
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17269cfdca337aa50800000000000000
+      internalID: 6532246602106102385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haunted tileset asset sheet_8
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 819
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33f3da60c158aaf30800000000000000
+      internalID: 4587625525847867187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haunted tileset asset sheet_9
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 817
+        width: 25
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1476f16fd292f4330800000000000000
+      internalID: 3697219096473986881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haunted tileset asset sheet_10
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 822
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bfb323b8b2c6abf0800000000000000
+      internalID: -313349025520435273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haunted tileset asset sheet_11
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 822
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ee48cfd81f3cb580800000000000000
+      internalID: -8810097394977321248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haunted tileset asset sheet_12
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 672
+        width: 152
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b24b620beb403a270800000000000000
+      internalID: 8260451358573245483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haunted tileset asset sheet_13
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 819
+        width: 41
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0375fe43fea9ae830800000000000000
+      internalID: 4101260762850219824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haunted tileset asset sheet_14
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 819
+        width: 41
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b37406a378eecef00800000000000000
+      internalID: 1147554269640017723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haunted tileset asset sheet_15
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 819
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a49d9d7038c6a4940800000000000000
+      internalID: 5281152823073560906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haunted tileset asset sheet_16
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 769
+        width: 29
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a3dcfbd30b8d2db0800000000000000
+      internalID: -4815039577897249884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haunted tileset asset sheet_17
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 624
+        width: 213
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eaaa936edbfeaf60800000000000000
+      internalID: 8047646516730047202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haunted tileset asset sheet_18
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 768
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a7191c918ed3ef90800000000000000
+      internalID: -6925447153714653279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haunted tileset asset sheet_19
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 773
+        width: 22
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5fc014f33000cea0800000000000000
+      internalID: -5854679292443570342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haunted tileset asset sheet_20
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 777
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8288989cb10daf060800000000000000
+      internalID: 6988126589582673960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haunted tileset asset sheet_21
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 775
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dd3ccd9fb2d948b0800000000000000
+      internalID: -5167367377002938920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haunted tileset asset sheet_22
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 776
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f3b87a57760b7ad0800000000000000
+      internalID: -2703560041617116168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haunted tileset asset sheet_23
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 780
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0678d6275e4aafda0800000000000000
+      internalID: -5910230255596107936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haunted tileset asset sheet_24
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 774
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 228d2764e8a8eb190800000000000000
+      internalID: -7944760348963055582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haunted tileset asset sheet_25
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 770
+        width: 38
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 149724880d0bc62c0800000000000000
+      internalID: -4436977123181037247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haunted tileset asset sheet_26
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 770
+        width: 38
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 106ad4bdbe315f0a0800000000000000
+      internalID: -6848545754629429759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haunted tileset asset sheet_27
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 732
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dd2d6a06dd1d3140800000000000000
+      internalID: 4700946391179800018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haunted tileset asset sheet_28
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 741
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 185966bf3af8a4a80800000000000000
+      internalID: -8481809013738662527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haunted tileset asset sheet_29
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 741
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c170c2ed93b3d24a0800000000000000
+      internalID: -6616567157810788580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haunted tileset asset sheet_30
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 728
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d48078c8caa0c6d0800000000000000
+      internalID: -2972187974731529006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haunted tileset asset sheet_31
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 727
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a387339fc2087ad00800000000000000
+      internalID: 983895974251558970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haunted tileset asset sheet_32
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 728
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbb904a38160a0920800000000000000
+      internalID: 2957182806448446395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haunted tileset asset sheet_33
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 724
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d334f4ecd78cf210800000000000000
+      internalID: 1368117769617552337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haunted tileset asset sheet_34
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 724
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f78c0cb03ec15670800000000000000
+      internalID: 8525822278297749495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haunted tileset asset sheet_35
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 723
+        width: 35
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf707fc694fe5e470800000000000000
+      internalID: 8423401776706160635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haunted tileset asset sheet_36
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 723
+        width: 35
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70d4af7ace7ae94c0800000000000000
+      internalID: -4278797961083073273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haunted tileset asset sheet_37
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 685
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f038cbdd8349f43a0800000000000000
+      internalID: -6678956750407957745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haunted tileset asset sheet_38
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 678
+        width: 48
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4983c75c9160f2140800000000000000
+      internalID: 4696979644127918228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haunted tileset asset sheet_39
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 681
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e963ac2f320338220800000000000000
+      internalID: 2486884350193972894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haunted tileset asset sheet_40
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 681
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 368fad4bbe92980d0800000000000000
+      internalID: -3420156349682878365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haunted tileset asset sheet_41
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 681
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74436d6caf4d90550800000000000000
+      internalID: 6127662941557109831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haunted tileset asset sheet_42
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 687
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d22ce7c1b2fec2900800000000000000
+      internalID: 661166213757321773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haunted tileset asset sheet_43
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 682
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5ac1c786bf9b9350800000000000000
+      internalID: 6024584532848659037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haunted tileset asset sheet_44
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 677
+        width: 26
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54bd03384005e7ca0800000000000000
+      internalID: -6017284071809295547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haunted tileset asset sheet_45
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 676
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e16f754ff4b50a30800000000000000
+      internalID: 4180946837559009766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haunted tileset asset sheet_46
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 676
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4221fe5bf9d84b820800000000000000
+      internalID: 2933124974416695844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haunted tileset asset sheet_47
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 687
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a63abbb81a6c43f60800000000000000
+      internalID: 8013248034135319402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haunted tileset asset sheet_48
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 687
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebc04b598fc169640800000000000000
+      internalID: 5086284683150625982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haunted tileset asset sheet_49
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 633
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6b0a05c13e3c2520800000000000000
+      internalID: 2678584261858691946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haunted tileset asset sheet_50
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 625
+        width: 21
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30a499686103fa4f0800000000000000
+      internalID: -815380134225163773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haunted tileset asset sheet_51
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 632
+        width: 47
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54f1ebd1c297d3e30800000000000000
+      internalID: 4484874034315403077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haunted tileset asset sheet_52
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 632
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5742029bf1eaa97d0800000000000000
+      internalID: -2910822757868493707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haunted tileset asset sheet_53
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 632
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98cadf830a50d30b0800000000000000
+      internalID: -5747431363745829751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haunted tileset asset sheet_54
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 632
+        width: 37
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd0d651d1b590c870800000000000000
+      internalID: 8701119071033675997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haunted tileset asset sheet_55
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 643
+        width: 28
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25e6534af788925f0800000000000000
+      internalID: -780942978574881198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haunted tileset asset sheet_56
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 643
+        width: 28
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6f3edd40aac82a40800000000000000
+      internalID: 5343743747725082474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haunted tileset asset sheet_57
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 634
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe0304fd7ed021cc0800000000000000
+      internalID: -3741913050857328401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haunted tileset asset sheet_58
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 627
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e12e3d1c1bee54fa0800000000000000
+      internalID: -5816980896450616802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haunted tileset asset sheet_59
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 627
+        width: 15
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8e0e927ef0888030800000000000000
+      internalID: 3497186940986199692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haunted tileset asset sheet_60
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 527
+        width: 64
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab3638838d5d721b0800000000000000
+      internalID: -5681337280266804294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haunted tileset asset sheet_61
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 586
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d96c072cbf381660800000000000000
+      internalID: 7356700068651231698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haunted tileset asset sheet_62
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 580
+        width: 19
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a333fb09b93999d60800000000000000
+      internalID: 7897505717928538938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haunted tileset asset sheet_63
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 580
+        width: 18
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73fbec9375bc72e30800000000000000
+      internalID: 4478771929935691575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haunted tileset asset sheet_64
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 587
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 194e538845967cd40800000000000000
+      internalID: 5604564073069274257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haunted tileset asset sheet_65
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 582
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8223e8323193aaa10800000000000000
+      internalID: 1921410945390621224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haunted tileset asset sheet_66
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 582
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb58b3036338b24e0800000000000000
+      internalID: -2005364940302744133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haunted tileset asset sheet_67
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 576
+        width: 19
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aff33abe599091350800000000000000
+      internalID: 5987827719073906682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haunted tileset asset sheet_68
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 577
+        width: 29
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaa776fffe8033da0800000000000000
+      internalID: -5966415254460597586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haunted tileset asset sheet_69
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 577
+        width: 29
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90b4bbaeb205626d0800000000000000
+      internalID: -3015634750926009591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haunted tileset asset sheet_70
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 585
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e6653ccf5139c640800000000000000
+      internalID: 5100662340491503336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haunted tileset asset sheet_71
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 587
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50180cab9ef718830800000000000000
+      internalID: 4071676179956924677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haunted tileset asset sheet_72
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 584
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ca4f438798b57e00800000000000000
+      internalID: 1041941849688722121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haunted tileset asset sheet_73
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 591
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 203c1c5f597da1d80800000000000000
+      internalID: -8279067925894020350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haunted tileset asset sheet_74
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 591
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90d26c030cdcd6040800000000000000
+      internalID: 4642593016224558345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haunted tileset asset sheet_75
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 586
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3889ff75e13470b20800000000000000
+      internalID: 3100520666072324227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haunted tileset asset sheet_76
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 583
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f63b07d8510b067a0800000000000000
+      internalID: -6385910664997588113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haunted tileset asset sheet_77
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 583
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e66d35a19405fd060800000000000000
+      internalID: 6980386222352094830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haunted tileset asset sheet_78
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 528
+        width: 289
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc2f2da45939caea0800000000000000
+      internalID: -5860146745701109041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haunted tileset asset sheet_79
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 432
+        width: 58
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52e5eb0733aa0b7f0800000000000000
+      internalID: -598791612528697819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haunted tileset asset sheet_80
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 539
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6427dbebd8b634d50800000000000000
+      internalID: 6720333325501559366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haunted tileset asset sheet_81
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 529
+        width: 29
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3f9f978d96622b80800000000000000
+      internalID: -8421055526458122437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haunted tileset asset sheet_82
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 529
+        width: 29
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b2c28fb44b262430800000000000000
+      internalID: 3757738513358045879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haunted tileset asset sheet_83
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 533
+        width: 43
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12a778d3be31eed00800000000000000
+      internalID: 1003761668020730401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haunted tileset asset sheet_84
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 533
+        width: 43
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28a37599ab50fb510800000000000000
+      internalID: 1566977494342908546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haunted tileset asset sheet_85
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 536
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f315c00624794fa0800000000000000
+      internalID: -5815989737201789965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haunted tileset asset sheet_86
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 536
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcef1c9b17321a4a0800000000000000
+      internalID: -6583942208884179253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haunted tileset asset sheet_87
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 533
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2de8edccb7ac50500800000000000000
+      internalID: 361917978140118738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haunted tileset asset sheet_88
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 289
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82098433f9075a0d0800000000000000
+      internalID: -3412197313600778200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haunted tileset asset sheet_89
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 488
+        width: 16
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe928919da740a510800000000000000
+      internalID: 1558324281867774447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haunted tileset asset sheet_90
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 491
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6600e53966244d9f0800000000000000
+      internalID: -444657454876327834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haunted tileset asset sheet_91
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 491
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d003d70fe814802d0800000000000000
+      internalID: -3312325443755102195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haunted tileset asset sheet_92
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 488
+        width: 98
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2d39643aae3c3ac0800000000000000
+      internalID: -3874152678700794581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haunted tileset asset sheet_93
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 483
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78a84613e1e108190800000000000000
+      internalID: -7962331026164512121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haunted tileset asset sheet_94
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 483
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d2e77a805e30d770800000000000000
+      internalID: 8633469001310659283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haunted tileset asset sheet_95
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 482
+        width: 24
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e94e86f8968152aa0800000000000000
+      internalID: -6186511671466859362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haunted tileset asset sheet_96
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 483
+        width: 29
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b3de2f8abc6c11d0800000000000000
+      internalID: -3378706071912787016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haunted tileset asset sheet_97
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 483
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5f506f9ab334ebe0800000000000000
+      internalID: -1448976303475630246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haunted tileset asset sheet_98
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 483
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d303c511e4788fd00800000000000000
+      internalID: 1006703286085759037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haunted tileset asset sheet_99
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 350
+        width: 112
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d24d3a5f51739030800000000000000
+      internalID: 3500265989746803409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haunted tileset asset sheet_100
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 432
+        width: 98
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a530e03a9916b6c0800000000000000
+      internalID: -4128083858402822751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haunted tileset asset sheet_101
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 438
+        width: 16
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5136c67fa31fdf070800000000000000
+      internalID: 8141928936917197589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haunted tileset asset sheet_102
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 443
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb99fadbe4a879120800000000000000
+      internalID: 2420555395529415103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haunted tileset asset sheet_103
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 443
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b71e85e63fa4926d0800000000000000
+      internalID: -3014796066159009413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haunted tileset asset sheet_104
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 442
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9afc378d09a1da3c0800000000000000
+      internalID: -4346788855933579351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haunted tileset asset sheet_105
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 442
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27c34901a10ca2b80800000000000000
+      internalID: -8418705335235888014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haunted tileset asset sheet_106
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 443
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ea2571b08894c900800000000000000
+      internalID: 703855120277121764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haunted tileset asset sheet_107
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 436
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f68c4b263d7be41c0800000000000000
+      internalID: -4517471257684031377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haunted tileset asset sheet_108
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 439
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8413f2e347fdadd70800000000000000
+      internalID: 9068806490016395592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haunted tileset asset sheet_109
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 443
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: addbf45b05dd9ef10800000000000000
+      internalID: 2299612423458373082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haunted tileset asset sheet_110
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 437
+        width: 29
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4c817ba5b0ce58b0800000000000000
+      internalID: -5161476236422050740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haunted tileset asset sheet_111
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 437
+        width: 29
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63c8b1d18ecf24d50800000000000000
+      internalID: 6720211667841158198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haunted tileset asset sheet_112
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 289
+        width: 144
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3c3fdb0b79019580800000000000000
+      internalID: -8822259770957284291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haunted tileset asset sheet_113
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 395
+        width: 50
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55f6ae0027a79f550800000000000000
+      internalID: 6195117392485052245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haunted tileset asset sheet_114
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 388
+        width: 17
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bee5450991d0b42e0800000000000000
+      internalID: -2140602794437746965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haunted tileset asset sheet_115
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 388
+        width: 17
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 408b5a18b1bbff790800000000000000
+      internalID: -7494065528107583484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haunted tileset asset sheet_116
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 389
+        width: 41
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 033782430656ac590800000000000000
+      internalID: -7653193152896404688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haunted tileset asset sheet_117
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 389
+        width: 41
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1be42c47081a6c690800000000000000
+      internalID: -7582195349544874319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haunted tileset asset sheet_118
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 388
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ee44ea35c4537460800000000000000
+      internalID: 7238222232187850471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haunted tileset asset sheet_119
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 388
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c53a54cb4f6d5d10800000000000000
+      internalID: 2115969771141477826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haunted tileset asset sheet_120
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 390
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeea218334923b2b0800000000000000
+      internalID: -5570062945446875410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haunted tileset asset sheet_121
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 390
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a931e12eccc2ad2e0800000000000000
+      internalID: -2100317017736342630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haunted tileset asset sheet_122
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 393
+        width: 26
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e173a0268f35ba9a0800000000000000
+      internalID: -6220786134020376802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haunted tileset asset sheet_123
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 392
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53a5f9b5592965d20800000000000000
+      internalID: 3266959749888825909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haunted tileset asset sheet_124
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 390
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f812ede4c48343100800000000000000
+      internalID: 86756193218732431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haunted tileset asset sheet_125
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 389
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03170875d7d42cdc0800000000000000
+      internalID: -3620245949718171344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haunted tileset asset sheet_126
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 337
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c39df086d761b370800000000000000
+      internalID: 8336558556224263104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haunted tileset asset sheet_127
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 352
+        width: 50
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 242e3ea276f5c3410800000000000000
+      internalID: 1458145276067045954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haunted tileset asset sheet_128
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 337
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c4e6f26138881200800000000000000
+      internalID: 151020333212034245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haunted tileset asset sheet_129
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 341
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c406023c26bb69e10800000000000000
+      internalID: 2204155100499304524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haunted tileset asset sheet_130
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 341
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a41862e9eebfdd00800000000000000
+      internalID: 999727554034668705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haunted tileset asset sheet_131
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 347
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32d854559fe281b80800000000000000
+      internalID: -8423931454584156893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haunted tileset asset sheet_132
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 341
+        width: 13
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46362cff1207acbf0800000000000000
+      internalID: -303306733566925980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haunted tileset asset sheet_133
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 336
+        width: 98
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0de651c9c75636ad0800000000000000
+      internalID: -2710210964877906224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haunted tileset asset sheet_134
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 343
+        width: 45
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a461c123f636108d0800000000000000
+      internalID: -2881912957307185590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haunted tileset asset sheet_135
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 340
+        width: 36
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c8fdcdea9f498a40800000000000000
+      internalID: 5370911557449283779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haunted tileset asset sheet_136
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 356
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40f24bd895e9f8d30800000000000000
+      internalID: 4435938265449901828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haunted tileset asset sheet_137
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 341
+        width: 48
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 293283486f6960200800000000000000
+      internalID: 145970023460512658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haunted tileset asset sheet_138
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 769
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8eff2d3f943d739a0800000000000000
+      internalID: -6253297243003879448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haunted tileset asset sheet_139
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 240
+        width: 41
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cef63e5aa1e056e40800000000000000
+      internalID: 5648936815221239788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haunted tileset asset sheet_140
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 295
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f996980bfc8f18630800000000000000
+      internalID: 3927693920947497375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haunted tileset asset sheet_141
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 293
+        width: 48
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed351a6ce06e1a060800000000000000
+      internalID: 6963099450027889630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

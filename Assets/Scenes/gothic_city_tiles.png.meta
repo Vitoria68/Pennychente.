@@ -1,0 +1,768 @@
+fileFormatVersion: 2
+guid: a374d78aed4c7d745a908cf5bd18833f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1194060249730943913
+    second: gothic_city_tiles_0
+  - first:
+      213: 3021314602497012296
+    second: gothic_city_tiles_1
+  - first:
+      213: -5372030271047938826
+    second: gothic_city_tiles_2
+  - first:
+      213: -3368869976574558172
+    second: gothic_city_tiles_3
+  - first:
+      213: 5280242336607783401
+    second: gothic_city_tiles_4
+  - first:
+      213: -4358540118348657243
+    second: gothic_city_tiles_5
+  - first:
+      213: 1350630109381227030
+    second: gothic_city_tiles_6
+  - first:
+      213: 8358791336305313433
+    second: gothic_city_tiles_7
+  - first:
+      213: -2603339002290303044
+    second: gothic_city_tiles_8
+  - first:
+      213: 1578275934260106794
+    second: gothic_city_tiles_9
+  - first:
+      213: -7717779512773027253
+    second: gothic_city_tiles_10
+  - first:
+      213: -2782940015264805075
+    second: gothic_city_tiles_11
+  - first:
+      213: 5535078092247568556
+    second: gothic_city_tiles_12
+  - first:
+      213: -1699475442301636865
+    second: gothic_city_tiles_13
+  - first:
+      213: -1451693286826330189
+    second: gothic_city_tiles_14
+  - first:
+      213: -7157743933642065475
+    second: gothic_city_tiles_15
+  - first:
+      213: 1374132171263729963
+    second: gothic_city_tiles_16
+  - first:
+      213: 6505304855238980678
+    second: gothic_city_tiles_17
+  - first:
+      213: 6093852580288069393
+    second: gothic_city_tiles_18
+  - first:
+      213: 8232758097172524328
+    second: gothic_city_tiles_19
+  - first:
+      213: -564068167659513320
+    second: gothic_city_tiles_20
+  - first:
+      213: 8856025457437433501
+    second: gothic_city_tiles_21
+  - first:
+      213: -4660662586999483259
+    second: gothic_city_tiles_22
+  - first:
+      213: -1598666895623314858
+    second: gothic_city_tiles_23
+  - first:
+      213: 6484217730710627283
+    second: gothic_city_tiles_24
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Win64
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: gothic_city_tiles_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 928
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ab80a18877229010800000000000000
+      internalID: 1194060249730943913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gothic_city_tiles_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 911
+        width: 97
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 842f8849f9ddde920800000000000000
+      internalID: 3021314602497012296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gothic_city_tiles_2
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 913
+        width: 8
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fcca834ee6b275b0800000000000000
+      internalID: -5372030271047938826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gothic_city_tiles_3
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 944
+        width: 31
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4208bc7fa9e5f31d0800000000000000
+      internalID: -3368869976574558172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gothic_city_tiles_4
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 937
+        width: 36
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e94c71ed60374940800000000000000
+      internalID: 5280242336607783401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gothic_city_tiles_5
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 944
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ad0a8adada5383c0800000000000000
+      internalID: -4358540118348657243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gothic_city_tiles_6
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 928
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6127d94bde66eb210800000000000000
+      internalID: 1350630109381227030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gothic_city_tiles_7
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 933
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99647100f64600470800000000000000
+      internalID: 8358791336305313433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gothic_city_tiles_8
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 933
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbf019278f41fdbd0800000000000000
+      internalID: -2603339002290303044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gothic_city_tiles_9
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 911
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a261f13a99927e510800000000000000
+      internalID: 1578275934260106794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gothic_city_tiles_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 399
+        width: 256
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4a50667c60f4e490800000000000000
+      internalID: -7717779512773027253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gothic_city_tiles_11
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 319
+        width: 65
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2fcbeefcc20169d0800000000000000
+      internalID: -2782940015264805075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gothic_city_tiles_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 154
+        width: 193
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca09674e23c80dc40800000000000000
+      internalID: 5535078092247568556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gothic_city_tiles_13
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 288
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffe6c15e6104a68e0800000000000000
+      internalID: -1699475442301636865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gothic_city_tiles_14
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 288
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b7b5e3a5ac8adbe0800000000000000
+      internalID: -1451693286826330189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gothic_city_tiles_15
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 288
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db9be02d0d59aac90800000000000000
+      internalID: -7157743933642065475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gothic_city_tiles_16
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 231
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b216c96ede5e11310800000000000000
+      internalID: 1374132171263729963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gothic_city_tiles_17
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 241
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 644b42c9c4c774a50800000000000000
+      internalID: 6505304855238980678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gothic_city_tiles_18
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 241
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11ffaa992a6b19450800000000000000
+      internalID: 6093852580288069393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gothic_city_tiles_19
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 218
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82d60bfced1a04270800000000000000
+      internalID: 8232758097172524328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gothic_city_tiles_20
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 225
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81a9c857df60c28f0800000000000000
+      internalID: -564068167659513320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gothic_city_tiles_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 87
+        width: 103
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9edf587b3ce6ea70800000000000000
+      internalID: 8856025457437433501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gothic_city_tiles_22
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 87
+        width: 103
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58451f30210025fb0800000000000000
+      internalID: -4660662586999483259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gothic_city_tiles_23
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 136
+        width: 49
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6522234bde460d9e0800000000000000
+      internalID: -1598666895623314858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gothic_city_tiles_24
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 87
+        width: 49
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d3eb45dba19cf950800000000000000
+      internalID: 6484217730710627283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
